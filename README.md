@@ -1,109 +1,100 @@
-<div align="center">
-
-# KETAN BHAMARE
-
-### Computer Science (AI) Student · Developer · Problem Solver
-
-Building things. Solving problems. Learning in public.
+<img src="./assets/header.svg" width="100%">
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/3KbGbyvBJWh/">
-  <img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-</a>
-&nbsp;
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## ABOUT
-
-</div>
-
-I'm a Computer Science student specializing in AI, currently exploring
-software development, problem solving and intelligent systems.
-
-I use GitHub as my **digital learning lab** — where I keep my lecture
-notes, coding practice, experiments and projects organized for future
-revision.
-
----
-
-<div align="center">
-
-## WHAT I'M LEARNING
-
-</div>
-
-<table align="center">
+<table width="100%">
 <tr>
-<td align="center" width="33%">
+<td width="70%" valign="top">
 
-### WEB DEVELOPMENT
+### Currently
 
-Frontend  
-Backend  
-REST APIs  
-Databases
+CS (AI) student building a working foundation in software engineering — full-stack development, data structures & algorithms, and applied AI/ML. This profile functions as a public engineering notebook: what I'm building, what I'm solving, and what I'm still figuring out.
 
-</td>
-
-<td align="center" width="33%">
-
-### PROBLEM SOLVING
-
-Data Structures  
-Algorithms  
-Java  
-LeetCode
+I'm not presenting a finished résumé here. I'm presenting direction.
 
 </td>
+<td width="30%" valign="top">
 
-<td align="center" width="33%">
-
-### AI / ML
-
-Python  
-Machine Learning  
-LLMs  
-RAG
+**Reach**
+<br>
+[LinkedIn ↗](https://www.linkedin.com/in/ketanbhamare/)
+<br>
+[LeetCode ↗](https://leetcode.com/u/3KbGyvBJWh/)
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-<div align="center">
+## Workstreams
 
-## MY WORKSPACE
+Three parallel tracks, documented as they progress — not finished, not fake.
 
-</div>
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-```text
-01  FRONTEND
-    HTML · CSS · JavaScript · React
+**`BUILD`**
 
-02  BACKEND
-    Node.js · Express · MongoDB · PostgreSQL
+Full-stack — React, Node.js, Express, MongoDB, SQL. Shipping small, working systems before large, imaginary ones.
 
-03  DSA
-    Java · Algorithms · LeetCode
+`frontend-learning`
+`backend-learning`
 
-04  AI / ML
-    Python · NumPy · Pandas · ML · LLMs · RAG
+</td>
+<td width="33%" valign="top">
 
-05  COMPUTER SCIENCE
-    DBMS · SQL · System Design
+**`SOLVE`**
+
+Java + DSA, worked problem-by-problem. Early days — I have a handful of LeetCode reps in, logged honestly, not inflated.
+
+`dsa-java`
+
+</td>
+<td width="33%" valign="top">
+
+**`EXPLORE`**
+
+Python, NumPy, ML fundamentals, generative AI, RAG. Where CS(AI) coursework turns into independent experiments.
+
+`machine-learning`
+`ai-learning`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Case Study — NEETAspire
+
+**The problem:** NEET aspirants prep against a 40,000+ question landscape with tools that are either static PDFs or bloated, ad-driven apps — nothing built around *retention* or *competitive pressure*, both of which matter for exam prep.
+
+**The approach:** an MCQ platform structured around NCERT chapters, with live 1v1 battles and timed play to introduce the same pressure a real exam does — plus streaks, XP, and bookmarking to make revision a habit instead of a scramble the week before.
+
+<table width="100%">
+<tr><td width="50%" valign="top">
+
+**Core mechanics**
+- NCERT chapter-wise question bank (40,000+)
+- Live 1v1 MCQ battles
+- Timed question sets
+
+</td><td width="50%" valign="top">
+
+**Retention layer**
+- Streaks, XP, badges
+- Daily challenges
+- Bookmarks + analytics
+
+</td></tr>
+</table>
+
+*Repository link to be added once public.*
+
+<br>
+
+## Knowledge Base
+
+The repos below aren't project showcases — they're the running notes behind the workstreams above. Structure over volume.
